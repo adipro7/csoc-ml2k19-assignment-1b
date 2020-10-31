@@ -1,7 +1,7 @@
 # ML assignement1b CSOC ML
 Here is the first assignment of CSOC ML on the topics of Matplolib and pandas.
 
-## Instructions to submit
+## Instructions to submit assignment:
 
 Login into your GitHub account and fork this repo by clicking on the Fork button on the top right. You now need to clone the forked repository, complete the assignment, stage and commit the changes, and finally push the changes online. [This](https://try.github.io) interactive tutorial will help you cover the basics of Git.
 
@@ -87,7 +87,7 @@ day.csv:->  It is part of a Bike Sharing Dataset. This dataset relates the bike 
 Assignment_1_b.ipynb - A Python notebook which needs to be filled by you at appropriate palces to complete the assignment. Read the comments and text in order to understand what is required to be done at each step. 
 
 
-This part of the assignment require more time then the previous part. It is a introduction to different types of plots and subplots.On successfully filling a plotting function completely, the corresponding plot will get generated.
+***This part of the assignment require more time then the previous part. It is a introduction to different types of plots and subplots.On successfully filling a plotting function completely, the corresponding plot will get generated.***
 	
 
 
